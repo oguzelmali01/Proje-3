@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\proje3\proje3\bin\Debug\proje3.exe.config
+C:\Users\Acer\source\repos\proje3\proje3\bin\Debug\proje3.exe
+C:\Users\Acer\source\repos\proje3\proje3\bin\Debug\proje3.pdb
+C:\Users\Acer\source\repos\proje3\proje3\obj\Debug\proje3.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\proje3\proje3\obj\Debug\proje3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\proje3\proje3\obj\Debug\proje3.exe
+C:\Users\Acer\source\repos\proje3\proje3\obj\Debug\proje3.pdb
